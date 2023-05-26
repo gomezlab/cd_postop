@@ -6,4 +6,4 @@ This code performs differential expression analysis for Crohn's Disease recurren
 - gsea_R.ipynb - performs gene set enrichment analysis using the Hallmark gene sets
 - ssgsea_R.ipynb - performs single sample gene set enrichment using the Hallmark gene sets
 - volcano_R.ipynb - creates a volcano plot from the DESeq output
-
+- postop/lr.ipynb - creates a logistic regression model for SSI including pathway enrichment from ssgsea_R.ipynb
